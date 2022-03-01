@@ -1,0 +1,127 @@
+caption {
+    padding: 0 0 10px 0;
+    font-weight: bold;
+    }
+input[type="text"]{
+    width: 250px;
+    background-color: white !important;
+}
+input[type="e-mail"]{
+    width: 250px;
+    background-color: white !important;
+    display: inline-block;
+    min-height: 40px;
+    width: 100%;
+    font-size: 14px;
+    line-height: 1.8;
+    padding: 6px 12px;
+    vertical-align: middle;
+    background-color: transparent;
+    color: #3c3950;
+    border: 1px solid #dae2ef;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.upload-meldung {
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+
+.Default-header:before {
+    content: none;
+}
+
+.facebook::before {
+    font-family: "Font Awesome 5 Brands"; 
+	font-weight: 400;
+	content: "\f09a";
+    color: #7a9cbf;
+}
+.fa-instagram::before {
+    font-family: "Font Awesome 5 Brands"; 
+	font-weight: 400;
+	content: "\f16d";
+    color: #7a9cbf;
+}
+.twitter::before {
+    font-family: "Font Awesome 5 Brands"; 
+	font-weight: 400;
+	content: "\f099";
+    color: #7a9cbf;
+}
+.fa-linkedin::before {
+    font-family: "Font Awesome 5 Brands"; 
+	font-weight: 400;
+	content: "\f08c";
+    color: #7a9cbf;
+}
+.fa-youtube::before {
+    font-family: "Font Awesome 5 Brands"; 
+	font-weight: 400;
+	content: "\f167";
+    color: #7a9cbf;
+}
+.fa-xing::before {
+    font-family: "Font Awesome 5 Brands"; 
+	font-weight: 400;
+	content: "\f168";
+    color: #7a9cbf;
+}
+
+      
+.whity {
+    background: rgba(0, 97, 162, 0.1);
+    width: 100%;
+    padding: 10px;
+}
+
+.wtc_table {
+    width: 40%;
+    padding: 10px;
+    border-bottom: none;
+}
+
+@media only screen and (min-width: 1200px) {
+    .wtc_table {
+        width: 600px;
+        padding: 10px;
+        border-bottom: none;
+    }
+}
+@media only screen and (min-width: 992px) {
+    .wtc_table {
+        width: 600px;
+        padding: 10px;
+        border-bottom: none;
+    }
+}
+@media only screen and (min-width: 768px) {
+    .wtc_table {
+        width: 600px;
+        padding: 10px;
+        border-bottom: none;
+    }
+}
+@media only screen and (min-width: 601px) {
+    .wtc_table {
+        width: 600px;
+        padding: 10px;
+        border-bottom: none;
+    }
+}
+@media only screen and (max-width: 600px) {
+    .wtc_table {
+        width: 100%;
+        padding: 10px;
+        border-bottom: none;
+    }
+}
+
